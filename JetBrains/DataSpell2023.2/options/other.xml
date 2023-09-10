@@ -1,0 +1,49 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="14.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;DataSpell.InitialConfiguration&quot;: &quot;true&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;0&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors&quot;: &quot;DS-232.9559.63&quot;,
+    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
+    &quot;SettingsSearchHistory&quot;: &quot;font\nsize\nChange font size&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;DS-232.9559.63-9128414d83608ffb6a691e0cbd3ebe76fd06b6a7f74dacb37c379e09cfbd2c17&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;DS-232.9559.63&quot;,
+    &quot;evlsprt3.232&quot;: &quot;23&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;232.9559.63&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;gotit.previous.run&quot;: &quot;DS-232.9559.63&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;ift.jupyter.onboarding.promo&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;DS-232.9559.63&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SearchEverywhere": 1694284661921
+  },
+  "proposedTips": {
+    "SearchEverywhere": 1694284661754
+  },
+  "tipsOrderSeed": 1694284661735
+}]]></component>
+</application>

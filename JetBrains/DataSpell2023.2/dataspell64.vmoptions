@@ -1,0 +1,4 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/nikita/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=4633818a-d257-4cf9-831d-c9c5637fc18b
+-Dtoolbox.notification.portFile=/home/nikita/.local/share/JetBrains/Toolbox/cache/ports/1807894887.port

@@ -1,0 +1,28 @@
+2023-09-10 18:57:07.785 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-09-10 18:57:07.785 [info] Auto Sync is enabled.
+2023-09-10 18:57:07.785 [info] Auto Sync: Suspended until auth token is available.
+2023-09-10 18:57:08.178 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/extensions
+2023-09-10 18:57:08.181 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/globalState
+2023-09-10 18:57:08.183 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/keybindings
+2023-09-10 18:57:08.185 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/profiles
+2023-09-10 18:57:08.186 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/settings
+2023-09-10 18:57:08.187 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/snippets
+2023-09-10 18:57:08.188 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/tasks
+2023-09-10 18:57:08.246 [info] Auto Sync: Triggered by Interval
+2023-09-10 18:57:08.246 [info] Sync started.
+2023-09-10 18:57:09.220 [info] Settings: Last sync resource does not exist locally.
+2023-09-10 18:57:09.387 [info] Settings: No changes found during synchronizing settings.
+2023-09-10 18:57:09.392 [info] Keybindings: Last sync resource does not exist locally.
+2023-09-10 18:57:09.478 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-10 18:57:09.481 [info] Snippets: Last sync resource does not exist locally.
+2023-09-10 18:57:09.597 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-10 18:57:09.598 [info] Tasks: Last sync resource does not exist locally.
+2023-09-10 18:57:09.685 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-10 18:57:09.686 [info] GlobalState: Last sync resource does not exist locally.
+2023-09-10 18:57:10.688 [info] GlobalState: Updated remote ui state. Updated: workbench.statusbar.hidden.
+2023-09-10 18:57:10.691 [info] GlobalState: Updated last synchronized ui state
+2023-09-10 18:57:10.692 [info] Extensions: Last sync resource does not exist locally.
+2023-09-10 18:57:10.986 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-10 18:57:10.988 [info] Profiles: Last sync resource does not exist locally.
+2023-09-10 18:57:11.068 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-10 18:57:11.071 [info] Sync done. Took 2826ms

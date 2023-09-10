@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="1" l="1694360884602" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1694360827096" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1694360932217" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1694360896670" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1694360892326" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1694360821429" />
+    </e>
+  </component>
+</application>

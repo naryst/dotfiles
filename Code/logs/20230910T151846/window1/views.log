@@ -1,0 +1,15 @@
+2023-09-10 15:18:47.039 [info] Added views:workbench.panel.output in workbench.panel.output
+2023-09-10 15:18:47.039 [info] Added views:outline in workbench.view.explorer
+2023-09-10 15:18:47.039 [info] Added views:workbench.scm in workbench.view.scm
+2023-09-10 15:18:47.039 [info] Added views:workbench.view.search in workbench.view.search
+2023-09-10 15:18:47.039 [info] Added views:workbench.panel.markers.view in workbench.views.service.panel.2ade9725-2585-4fca-b760-24f068385fdc
+2023-09-10 15:18:47.039 [info] Added views:terminal in workbench.views.service.panel.3f42ce6d-101b-449e-85ab-8a071f837fcf
+2023-09-10 15:18:47.039 [info] Added views:timeline in workbench.view.explorer
+2023-09-10 15:18:47.039 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2023-09-10 15:18:47.039 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2023-09-10 15:18:49.110 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2023-09-10 15:18:52.990 [info] Added views:remoteTargets in workbench.view.remote
+2023-09-10 15:18:53.380 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2023-09-10 15:18:55.534 [info] Added views:jupyterViewVariables,cell-tag in workbench.view.extension.jupyter-variables
+2023-09-10 15:18:56.600 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2023-09-10 15:19:06.144 [info] Removed views:workbench.view.testing from workbench.view.extension.test

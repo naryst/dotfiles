@@ -1,0 +1,164 @@
+2023-09-10 15:13:03.560 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nikita/.vscode/extensions
+2023-09-10 15:13:03.756 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/nikita/.vscode/extensions Unable to create file 'vscode-userdata:/home/nikita/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-09-10 15:13:03.756 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nikita/.vscode/extensions
+2023-09-10 15:13:42.359 [info] Getting Manifest... james-yu.latex-workshop
+2023-09-10 15:13:42.359 [info] Getting Manifest... hoovercj.haskell-linter
+2023-09-10 15:13:42.360 [info] Getting Manifest... vscodevim.vim
+2023-09-10 15:13:42.360 [info] Getting Manifest... justusadam.language-haskell
+2023-09-10 15:13:42.360 [info] Getting Manifest... ms-vscode.remote-explorer
+2023-09-10 15:13:42.360 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2023-09-10 15:13:42.360 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-09-10 15:13:42.360 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-09-10 15:13:42.360 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-09-10 15:13:42.360 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-09-10 15:13:42.360 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2023-09-10 15:13:42.360 [info] Getting Manifest... ms-toolsai.jupyter
+2023-09-10 15:13:42.361 [info] Getting Manifest... ms-python.isort
+2023-09-10 15:13:42.361 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2023-09-10 15:13:42.361 [info] Getting Manifest... haskell.haskell
+2023-09-10 15:13:42.361 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-10 15:13:42.361 [info] Getting Manifest... ms-python.black-formatter
+2023-09-10 15:13:42.361 [info] Getting Manifest... ms-python.python
+2023-09-10 15:13:42.568 [info] Getting Manifest... torn4dom4n.latex-support
+2023-09-10 15:13:42.790 [info] Installing extension: vscodevim.vim
+2023-09-10 15:13:42.790 [info] Installing the extension without checking dependencies and pack vscodevim.vim
+2023-09-10 15:13:42.790 [info] Installing extension: ms-vscode.remote-explorer
+2023-09-10 15:13:42.790 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-explorer
+2023-09-10 15:13:42.791 [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+2023-09-10 15:13:42.791 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+2023-09-10 15:13:42.791 [info] Installing extension: ms-vscode-remote.remote-ssh
+2023-09-10 15:13:42.791 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+2023-09-10 15:13:42.791 [info] Installing extension: catppuccin.catppuccin-vsc
+2023-09-10 15:13:42.791 [info] Installing the extension without checking dependencies and pack catppuccin.catppuccin-vsc
+2023-09-10 15:13:42.791 [info] Installing extension: ms-python.isort
+2023-09-10 15:13:42.792 [info] Installing the extension without checking dependencies and pack ms-python.isort
+2023-09-10 15:13:42.792 [info] Installing extension: ms-python.python
+2023-09-10 15:13:42.792 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-09-10 15:13:42.792 [info] Installing extension: ms-python.black-formatter
+2023-09-10 15:13:42.792 [info] Installing the extension without checking dependencies and pack ms-python.black-formatter
+2023-09-10 15:13:42.792 [info] Installing extension: ms-python.vscode-pylance
+2023-09-10 15:13:42.792 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-09-10 15:13:42.794 [info] Installing extension: james-yu.latex-workshop
+2023-09-10 15:13:42.795 [info] Installing the extension without checking dependencies and pack james-yu.latex-workshop
+2023-09-10 15:13:42.796 [info] Installing extension: hoovercj.haskell-linter
+2023-09-10 15:13:42.796 [info] Installing the extension without checking dependencies and pack hoovercj.haskell-linter
+2023-09-10 15:13:42.797 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-09-10 15:13:42.797 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2023-09-10 15:13:42.797 [info] Installing extension: justusadam.language-haskell
+2023-09-10 15:13:42.799 [info] Installing the extension without checking dependencies and pack justusadam.language-haskell
+2023-09-10 15:13:42.799 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2023-09-10 15:13:42.800 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2023-09-10 15:13:42.800 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-09-10 15:13:42.801 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2023-09-10 15:13:42.801 [info] Installing extension: ms-toolsai.jupyter
+2023-09-10 15:13:42.801 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2023-09-10 15:13:42.802 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-09-10 15:13:42.803 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2023-09-10 15:13:42.803 [info] Installing extension: haskell.haskell
+2023-09-10 15:13:42.804 [info] Installing the extension without checking dependencies and pack haskell.haskell
+2023-09-10 15:13:42.804 [info] Installing extension: torn4dom4n.latex-support
+2023-09-10 15:13:42.805 [info] Installing the extension without checking dependencies and pack torn4dom4n.latex-support
+2023-09-10 15:13:45.133 [warning] Extension signature verification failed with error 'UnknownError': ms-python.isort
+2023-09-10 15:13:45.135 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.remote-explorer
+2023-09-10 15:13:45.135 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-ssh-edit
+2023-09-10 15:13:45.240 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-vscode.remote-explorer-0.4.1: ms-vscode.remote-explorer
+2023-09-10 15:13:45.247 [info] Renamed to /home/nikita/.vscode/extensions/ms-vscode.remote-explorer-0.4.1
+2023-09-10 15:13:45.250 [info] Extracting extension completed. ms-vscode.remote-explorer
+2023-09-10 15:13:45.259 [info] Extension installed successfully: ms-vscode.remote-explorer
+2023-09-10 15:13:45.272 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0: ms-vscode-remote.remote-ssh-edit
+2023-09-10 15:13:45.276 [info] Renamed to /home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0
+2023-09-10 15:13:45.278 [info] Extracting extension completed. ms-vscode-remote.remote-ssh-edit
+2023-09-10 15:13:45.285 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+2023-09-10 15:13:45.405 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-python.isort-2023.10.1: ms-python.isort
+2023-09-10 15:13:45.411 [info] Renamed to /home/nikita/.vscode/extensions/ms-python.isort-2023.10.1
+2023-09-10 15:13:45.412 [info] Extracting extension completed. ms-python.isort
+2023-09-10 15:13:45.417 [info] Extension installed successfully: ms-python.isort
+2023-09-10 15:13:46.569 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-keymap
+2023-09-10 15:13:46.581 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2023-09-10 15:13:46.585 [info] Renamed to /home/nikita/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2023-09-10 15:13:46.587 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-09-10 15:13:46.594 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-09-10 15:13:49.087 [info] Extension signature verification is not done: torn4dom4n.latex-support
+2023-09-10 15:13:49.120 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-ssh
+2023-09-10 15:13:49.137 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc
+2023-09-10 15:13:49.139 [warning] Extension signature verification failed with error 'UnknownError': hoovercj.haskell-linter
+2023-09-10 15:13:49.142 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-slideshow
+2023-09-10 15:13:49.168 [info] Extracted extension to file:///home/nikita/.vscode/extensions/torn4dom4n.latex-support-3.10.0: torn4dom4n.latex-support
+2023-09-10 15:13:49.173 [info] Renamed to /home/nikita/.vscode/extensions/torn4dom4n.latex-support-3.10.0
+2023-09-10 15:13:49.177 [info] Extracting extension completed. torn4dom4n.latex-support
+2023-09-10 15:13:49.179 [info] Extracted extension to file:///home/nikita/.vscode/extensions/catppuccin.catppuccin-vsc-3.2.4: catppuccin.catppuccin-vsc
+2023-09-10 15:13:49.183 [info] Renamed to /home/nikita/.vscode/extensions/catppuccin.catppuccin-vsc-3.2.4
+2023-09-10 15:13:49.185 [info] Extension installed successfully: torn4dom4n.latex-support
+2023-09-10 15:13:49.186 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2023-09-10 15:13:49.191 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5: ms-toolsai.vscode-jupyter-slideshow
+2023-09-10 15:13:49.193 [info] Extracted extension to file:///home/nikita/.vscode/extensions/hoovercj.haskell-linter-0.0.6: hoovercj.haskell-linter
+2023-09-10 15:13:49.195 [info] Renamed to /home/nikita/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-09-10 15:13:49.196 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2023-09-10 15:13:49.197 [info] Renamed to /home/nikita/.vscode/extensions/hoovercj.haskell-linter-0.0.6
+2023-09-10 15:13:49.198 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-09-10 15:13:49.201 [info] Extracting extension completed. hoovercj.haskell-linter
+2023-09-10 15:13:49.212 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-09-10 15:13:49.218 [info] Extension installed successfully: hoovercj.haskell-linter
+2023-09-10 15:13:49.245 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-0.106.2: ms-vscode-remote.remote-ssh
+2023-09-10 15:13:49.248 [info] Renamed to /home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-0.106.2
+2023-09-10 15:13:49.251 [info] Extracting extension completed. ms-vscode-remote.remote-ssh
+2023-09-10 15:13:49.258 [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+2023-09-10 15:13:49.384 [warning] Extension signature verification failed with error 'UnknownError': james-yu.latex-workshop
+2023-09-10 15:13:49.913 [warning] Extension signature verification failed with error 'UnknownError': haskell.haskell
+2023-09-10 15:13:49.922 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-09-10 15:13:49.923 [warning] Extension signature verification failed with error 'UnknownError': justusadam.language-haskell
+2023-09-10 15:13:49.943 [warning] Extension signature verification failed with error 'UnknownError': ms-python.black-formatter
+2023-09-10 15:13:49.944 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-cell-tags
+2023-09-10 15:13:49.948 [warning] Extension signature verification failed with error 'UnknownError': vscodevim.vim
+2023-09-10 15:13:49.982 [info] Extracted extension to file:///home/nikita/.vscode/extensions/haskell.haskell-2.4.1: haskell.haskell
+2023-09-10 15:13:49.990 [info] Renamed to /home/nikita/.vscode/extensions/haskell.haskell-2.4.1
+2023-09-10 15:13:49.992 [info] Extracting extension completed. haskell.haskell
+2023-09-10 15:13:50.006 [info] Extension installed successfully: haskell.haskell
+2023-09-10 15:13:50.013 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8: ms-toolsai.vscode-jupyter-cell-tags
+2023-09-10 15:13:50.017 [info] Renamed to /home/nikita/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-09-10 15:13:50.019 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-09-10 15:13:50.026 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-09-10 15:13:50.029 [info] Extracted extension to file:///home/nikita/.vscode/extensions/justusadam.language-haskell-3.6.0: justusadam.language-haskell
+2023-09-10 15:13:50.033 [info] Renamed to /home/nikita/.vscode/extensions/justusadam.language-haskell-3.6.0
+2023-09-10 15:13:50.034 [info] Extracting extension completed. justusadam.language-haskell
+2023-09-10 15:13:50.041 [info] Extension installed successfully: justusadam.language-haskell
+2023-09-10 15:13:50.060 [info] Extracted extension to file:///home/nikita/.vscode/extensions/vscodevim.vim-1.26.0: vscodevim.vim
+2023-09-10 15:13:50.065 [info] Renamed to /home/nikita/.vscode/extensions/vscodevim.vim-1.26.0
+2023-09-10 15:13:50.067 [info] Extracting extension completed. vscodevim.vim
+2023-09-10 15:13:50.075 [info] Extension installed successfully: vscodevim.vim
+2023-09-10 15:13:50.498 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-python.black-formatter-2023.4.1: ms-python.black-formatter
+2023-09-10 15:13:50.503 [info] Renamed to /home/nikita/.vscode/extensions/ms-python.black-formatter-2023.4.1
+2023-09-10 15:13:50.505 [info] Extracting extension completed. ms-python.black-formatter
+2023-09-10 15:13:50.512 [info] Extension installed successfully: ms-python.black-formatter
+2023-09-10 15:13:50.616 [info] Extracted extension to file:///home/nikita/.vscode/extensions/james-yu.latex-workshop-9.13.4: james-yu.latex-workshop
+2023-09-10 15:13:50.624 [info] Renamed to /home/nikita/.vscode/extensions/james-yu.latex-workshop-9.13.4
+2023-09-10 15:13:50.627 [info] Extracting extension completed. james-yu.latex-workshop
+2023-09-10 15:13:50.634 [info] Extension installed successfully: james-yu.latex-workshop
+2023-09-10 15:13:51.265 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-09-10 15:13:51.623 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-python.python-2023.16.0: ms-python.python
+2023-09-10 15:13:51.632 [info] Renamed to /home/nikita/.vscode/extensions/ms-python.python-2023.16.0
+2023-09-10 15:13:51.638 [info] Extracting extension completed. ms-python.python
+2023-09-10 15:13:51.645 [info] Extension installed successfully: ms-python.python
+2023-09-10 15:13:52.344 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-renderers
+2023-09-10 15:13:52.461 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2023-09-10 15:13:52.624 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17: ms-toolsai.jupyter-renderers
+2023-09-10 15:13:52.629 [info] Renamed to /home/nikita/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17
+2023-09-10 15:13:52.631 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-09-10 15:13:52.639 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-09-10 15:13:52.762 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-toolsai.jupyter-2023.8.1002501831-linux-x64: ms-toolsai.jupyter
+2023-09-10 15:13:52.768 [info] Renamed to /home/nikita/.vscode/extensions/ms-toolsai.jupyter-2023.8.1002501831-linux-x64
+2023-09-10 15:13:52.773 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-09-10 15:13:52.780 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-09-10 15:13:53.753 [info] Extracted extension to file:///home/nikita/.vscode/extensions/ms-python.vscode-pylance-2023.9.10: ms-python.vscode-pylance
+2023-09-10 15:13:53.767 [info] Renamed to /home/nikita/.vscode/extensions/ms-python.vscode-pylance-2023.9.10
+2023-09-10 15:13:53.769 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-10 15:13:53.780 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-09-10 15:14:11.514 [info] Uninstalling extension from the profile: haskell.haskell@2.4.1 vscode-userdata:/home/nikita/.vscode/extensions/extensions.json
+2023-09-10 15:14:11.537 [info] Marked extension as uninstalled haskell.haskell-2.4.1
+2023-09-10 15:14:11.729 [info] Successfully uninstalled extension from the profile haskell.haskell@2.4.1 vscode-userdata:/home/nikita/.vscode/extensions/extensions.json
+2023-09-10 15:14:14.012 [info] Uninstalling extension from the profile: justusadam.language-haskell@3.6.0 vscode-userdata:/home/nikita/.vscode/extensions/extensions.json
+2023-09-10 15:14:14.110 [info] Marked extension as uninstalled justusadam.language-haskell-3.6.0
+2023-09-10 15:14:14.300 [info] Successfully uninstalled extension from the profile justusadam.language-haskell@3.6.0 vscode-userdata:/home/nikita/.vscode/extensions/extensions.json
+2023-09-10 15:14:15.841 [info] Uninstalling extension from the profile: hoovercj.haskell-linter@0.0.6 vscode-userdata:/home/nikita/.vscode/extensions/extensions.json
+2023-09-10 15:14:15.867 [info] Marked extension as uninstalled hoovercj.haskell-linter-0.0.6
+2023-09-10 15:14:16.063 [info] Successfully uninstalled extension from the profile hoovercj.haskell-linter@0.0.6 vscode-userdata:/home/nikita/.vscode/extensions/extensions.json

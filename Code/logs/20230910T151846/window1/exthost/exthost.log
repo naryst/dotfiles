@@ -1,0 +1,44 @@
+2023-09-10 15:18:47.325 [info] Extension host with pid 32544 started
+2023-09-10 15:18:47.326 [info] Skipping acquiring lock for /home/nikita/.config/Code/User/workspaceStorage/d96d7abc2908e70d4a5dc564d817d23f.
+2023-09-10 15:18:47.330 [info] $getCanonicalURI invoked for authority (ssh-remote)
+2023-09-10 15:18:47.335 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh, startup: false, activationEvent: 'onResolveRemoteAuthority:ssh-remote'
+2023-09-10 15:18:47.365 [info] [resolveAuthority(ssh-remote,1)][0ms] activating remote resolvers ssh-remote+10.100.30.241
+2023-09-10 15:18:47.365 [info] [resolveAuthority(ssh-remote,1)][0ms] activating resolver for ssh-remote+10.100.30.241...
+2023-09-10 15:18:47.365 [info] [resolveAuthority(ssh-remote,1)][0ms] invoking final resolve()...
+2023-09-10 15:18:48.365 [info] [resolveAuthority(ssh-remote,1)][1000ms] waiting...
+2023-09-10 15:18:49.367 [info] [resolveAuthority(ssh-remote,1)][2002ms] waiting...
+2023-09-10 15:18:50.367 [info] [resolveAuthority(ssh-remote,1)][3002ms] waiting...
+2023-09-10 15:18:51.368 [info] [resolveAuthority(ssh-remote,1)][4002ms] waiting...
+2023-09-10 15:18:52.368 [info] [resolveAuthority(ssh-remote,1)][5003ms] waiting...
+2023-09-10 15:18:52.498 [info] [resolveAuthority(ssh-remote,1)][5133ms] setting tunnel factory...
+2023-09-10 15:18:52.499 [info] [resolveAuthority(ssh-remote,1)][5134ms] returned 127.0.0.1:41771
+2023-09-10 15:18:53.028 [info] Eager extensions activated
+2023-09-10 15:18:53.080 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2023-09-10 15:18:53.084 [info] ExtensionService#_doActivateExtension ms-vscode.remote-explorer, startup: false, activationEvent: 'onCommand:remote-internal.setActiveFolders'
+2023-09-10 15:18:53.085 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-10 15:18:53.384 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-10 15:19:06.180 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-10 15:19:06.183 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:57382)
+	at i.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8289)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:82208)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:80967)
+	at r.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:82744)
+	at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:81739)
+	at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:21247)
+	at t.shutdown (/home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-0.106.2/out/extension.js:2:720220)
+	at e.deactivate (/home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-0.106.2/out/extension.js:2:904898)
+	at n.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9460)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:7572)
+	at n.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:7844)
+	at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:1513)
+	at D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-10 15:19:06.183 [info] Extension host with pid 32544 exiting with code 0

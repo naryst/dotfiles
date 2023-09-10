@@ -1,0 +1,45 @@
+2023-09-10 15:18:47.364 [info] Invoking resolveAuthority(ssh-remote)...
+2023-09-10 15:18:47.364 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2023-09-10 15:18:47.365 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2023-09-10 15:18:48.365 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1001ms] waiting...
+2023-09-10 15:18:49.365 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2000ms] waiting...
+2023-09-10 15:18:50.371 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3006ms] waiting...
+2023-09-10 15:18:51.365 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4001ms] waiting...
+2023-09-10 15:18:52.365 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5001ms] waiting...
+2023-09-10 15:18:52.490 [error] [Extension Host] (node:32544) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-09-10 15:18:52.512 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5147ms] returned WebSocket(127.0.0.1:41771)
+2023-09-10 15:18:52.512 [info] resolveAuthority(ssh-remote) returned 'WebSocket(127.0.0.1:41771)' after 5147 ms
+2023-09-10 15:18:52.514 [info] Creating a socket (renderer-Management-f1c47407-f8a7-4a99-b9e1-55afb88ba19c)...
+2023-09-10 15:18:52.515 [info] Creating a socket (renderer-ExtensionHost-89bfdf28-2a65-4a0c-b9fe-8c5102c2caab)...
+2023-09-10 15:18:52.525 [info] Creating a socket (renderer-Management-f1c47407-f8a7-4a99-b9e1-55afb88ba19c) was successful after 11 ms.
+2023-09-10 15:18:52.560 [info] Creating a socket (renderer-ExtensionHost-89bfdf28-2a65-4a0c-b9fe-8c5102c2caab) was successful after 44 ms.
+2023-09-10 15:18:54.710 [error] Could not find pty on pty host: CodeExpectedError: Could not find pty on pty host
+    at $.P (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:27:32310)
+    at $.updateIcon (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:27:27540)
+    at T.<computed> (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:27:22750)
+    at Object.call (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:17:4907)
+    at u.s (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at C.w (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at C.fire (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:8:27561)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-09-10 15:18:54.712 [error] Could not find pty on pty host: CodeExpectedError: Could not find pty on pty host
+    at $.P (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:27:32310)
+    at $.updateTitle (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:27:27490)
+    at T.<computed> (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:27:22750)
+    at Object.call (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:17:4907)
+    at u.s (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at C.w (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at C.fire (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/platform/terminal/node/ptyHostMain.js:8:27561)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-09-10 15:18:55.117 [info] [perf] Render performance baseline is 31ms

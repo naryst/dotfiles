@@ -1,0 +1,39 @@
+2023-09-10 15:18:16.834 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-09-10 15:18:16.834 [info] Auto Sync is enabled.
+2023-09-10 15:18:16.834 [info] Auto Sync: Suspended until auth token is available.
+2023-09-10 15:18:17.264 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/extensions
+2023-09-10 15:18:17.364 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/globalState
+2023-09-10 15:18:17.367 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/keybindings
+2023-09-10 15:18:17.370 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/profiles
+2023-09-10 15:18:17.372 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/settings
+2023-09-10 15:18:17.373 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/snippets
+2023-09-10 15:18:17.374 [info] Deleting non existing profile from backup /home/nikita/.config/Code/User/sync/tasks
+2023-09-10 15:18:19.151 [info] Auto Sync: Triggered by Interval
+2023-09-10 15:18:19.152 [info] Sync started.
+2023-09-10 15:18:19.909 [info] Settings: Last sync resource does not exist locally.
+2023-09-10 15:18:20.146 [info] Settings: No changes found during synchronizing settings.
+2023-09-10 15:18:20.148 [info] Keybindings: Last sync resource does not exist locally.
+2023-09-10 15:18:20.304 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-10 15:18:20.306 [info] Snippets: Last sync resource does not exist locally.
+2023-09-10 15:18:20.428 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-10 15:18:20.429 [info] Tasks: Last sync resource does not exist locally.
+2023-09-10 15:18:20.518 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-10 15:18:20.520 [info] GlobalState: Last sync resource does not exist locally.
+2023-09-10 15:18:21.479 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels.
+2023-09-10 15:18:21.485 [info] GlobalState: Updated last synchronized ui state
+2023-09-10 15:18:21.487 [info] Extensions: Last sync resource does not exist locally.
+2023-09-10 15:18:21.638 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-10 15:18:21.638 [info] Profiles: Last sync resource does not exist locally.
+2023-09-10 15:18:21.724 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-10 15:18:21.726 [info] Sync done. Took 2575ms
+2023-09-10 15:18:24.649 [info] Auto Sync: Triggered by Activity
+2023-09-10 15:18:24.649 [info] Sync started.
+2023-09-10 15:18:24.733 [info] Settings: No changes found during synchronizing settings.
+2023-09-10 15:18:24.736 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-10 15:18:24.738 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-10 15:18:24.740 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-10 15:18:25.285 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2023-09-10 15:18:25.291 [info] GlobalState: Updated last synchronized ui state
+2023-09-10 15:18:25.351 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-10 15:18:25.353 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-10 15:18:25.356 [info] Sync done. Took 706ms

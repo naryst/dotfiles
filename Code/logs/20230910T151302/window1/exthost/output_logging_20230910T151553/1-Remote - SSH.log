@@ -1,0 +1,132 @@
+[15:15:53.622] Log Level: 2
+[15:15:53.636] VS Code version: 1.82.0
+[15:15:53.636] Remote-SSH version: remote-ssh@0.106.2
+[15:15:53.636] linux x64
+[15:15:53.661] SSH Resolver called for "ssh-remote+10.100.30.241", attempt 1
+[15:15:53.662] "remote.SSH.useLocalServer": true
+[15:15:53.662] "remote.SSH.path": undefined
+[15:15:53.662] "remote.SSH.configFile": undefined
+[15:15:53.662] "remote.SSH.useFlock": true
+[15:15:53.663] "remote.SSH.lockfilesInTmp": false
+[15:15:53.663] "remote.SSH.localServerDownload": auto
+[15:15:53.663] "remote.SSH.remoteServerListenOnSocket": false
+[15:15:53.663] "remote.SSH.showLoginTerminal": true
+[15:15:53.663] "remote.SSH.defaultExtensions": []
+[15:15:53.663] "remote.SSH.loglevel": 2
+[15:15:53.663] "remote.SSH.enableDynamicForwarding": true
+[15:15:53.663] "remote.SSH.enableRemoteCommand": false
+[15:15:53.664] "remote.SSH.serverPickPortsFromRange": {}
+[15:15:53.664] "remote.SSH.serverInstallPath": {}
+[15:15:53.667] SSH Resolver called for host: 10.100.30.241
+[15:15:53.667] Setting up SSH remote "10.100.30.241"
+[15:15:53.669] Acquiring local install lock: /tmp/vscode-remote-ssh-69e67e69-install.lock
+[15:15:53.669] Looking for existing server data file at /home/nikita/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-69e67e69-8b617bd08fd9e3fc94d14adb8d358b56e3f72314-0.106.2/data.json
+[15:15:53.669] Using commit id "8b617bd08fd9e3fc94d14adb8d358b56e3f72314" and quality "stable" for server
+[15:15:53.674] Install and start server if needed
+[15:15:53.676] PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+[15:15:53.676] Checking ssh with "ssh -V"
+[15:15:53.686] > OpenSSH_9.4p1, OpenSSL 3.1.2 1 Aug 2023
+
+[15:15:53.689] askpass server listening on /run/user/1000/vscode-ssh-askpass-fe24941b5891862106298a6938ee6f85f7096b77.sock
+[15:15:53.689] Spawning local server with {"serverId":1,"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-cb28cc82a5fc59c43e5345f32d5c3138e24897b9.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","44829","-o","ConnectTimeout=15","10.100.30.241"],"serverDataFolderName":".vscode-server","dataFilePath":"/home/nikita/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-69e67e69-8b617bd08fd9e3fc94d14adb8d358b56e3f72314-0.106.2/data.json"}
+[15:15:53.689] Local server env: {"SHELL":"/usr/bin/zsh","DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-0.106.2/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_EXTRA_ARGS":"--ms-enable-electron-run-as-node","VSCODE_SSH_ASKPASS_MAIN":"/home/nikita/.vscode/extensions/ms-vscode-remote.remote-ssh-0.106.2/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-fe24941b5891862106298a6938ee6f85f7096b77.sock"}
+[15:15:53.695] Spawned 31875
+[15:15:53.802] > local-server-1> Running ssh connection command: "-v -T -D 44829 -o ConnectTimeout=15 10.100.30.241"
+[15:15:53.808] > local-server-1> Spawned ssh, pid=31883
+[15:15:53.815] stderr> OpenSSH_9.4p1, OpenSSL 3.1.2 1 Aug 2023
+[15:15:53.864] stderr> debug1: Server host key: ssh-ed25519 SHA256:64oUIBC3VbSt6V+I3PDzeWNVCW0xyH5BajHniFdBuEU
+[15:15:54.053] Got askpass request: {"request":"Enter passphrase for key '/home/nikita/.ssh/id_ed25519':"}
+[15:15:54.054] Detected passphrase message
+[15:15:54.055] Listening for interwindow password on /run/user/1000/vscode-ssh-askpass-6e838c0d0c961530fd50be7a6fa57c190a282f74.sock
+[15:15:54.056] Writing password prompt to globalState
+[15:15:56.753] Got passphrase response
+[15:15:56.754] Interactor gave response: *******
+[15:15:56.754] Cleaning up other-window auth server
+[15:15:56.923] stderr> Authenticated to 10.100.30.241 ([10.100.30.241]:2222) using "publickey".
+[15:15:56.958] > Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.15.0-78-generic x86_64)
+> 
+>  * Documentation:  https://help.ubuntu.com
+>  * Management:     https://landscape.canonical.com
+>  * Support:        https://ubuntu.com/advantage
+> 
+> This system has been minimized by removing packages and content that are
+> not required on a system that users do not log into.
+> 
+> To restore this content, you can run the 'unminimize' command.
+[15:15:56.962] > ready: 960e349ed1b3
+[15:15:56.966] > Linux 5.15.0-78-generic #85-Ubuntu SMP Fri Jul 7 15:25:09 UTC 2023
+[15:15:56.966] Platform: linux
+[15:15:56.967] > /usr/bin/zsh
+[15:15:56.967] Shell: zsh
+[15:15:56.968] Creating bash subshell inside "zsh"
+[15:15:56.972] > bash version:  5.0.17(1)-release
+[15:15:56.992] > 960e349ed1b3: running
+[15:15:57.034] > Acquiring lock on /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/vscode-remote-lock.root.8b617bd08fd9e3fc94d14adb8d358b56e3f72314
+[15:15:57.041] > Found existing installation at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314...
+> Checking /root/.vscode-server/.8b617bd08fd9e3fc94d14adb8d358b56e3f72314.log and /root/.vscode-server/.8b617bd08fd9e3fc94d14adb8d358b56e3f72314.pid for a running server
+[15:15:57.043] > Looking for server with pid: 1197315
+[15:15:57.058] > Found running server...
+[15:15:57.060] >  
+> *
+> * Visual Studio Code Server
+> *
+> * By using the software, you agree to
+> * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+> * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+> *
+>  
+[15:15:57.076] > Checking server status on port 44437 with wget
+[15:15:57.091] > 960e349ed1b3: start
+> SSH_AUTH_SOCK====
+> DISPLAY====
+> webUiAccessToken====
+> listeningOn==44437==
+> osReleaseId==ubuntu==
+> arch==x86_64==
+> vscodeArch==x64==
+> bitness==64==
+> tmpDir==/tmp==
+> platform==linux==
+> unpackResult====
+> didLocalDownload==0==
+[15:15:57.091] > downloadTime====
+> installTime====
+> extInstallTime====
+> serverStartTime====
+> connectionToken==a11a1111-1aa1-1111-a1a1-a1a111a111aa==
+> 960e349ed1b3: end
+[15:15:57.092] Received install output: 
+SSH_AUTH_SOCK====
+DISPLAY====
+webUiAccessToken====
+listeningOn==44437==
+osReleaseId==ubuntu==
+arch==x86_64==
+vscodeArch==x64==
+bitness==64==
+tmpDir==/tmp==
+platform==linux==
+unpackResult====
+didLocalDownload==0==downloadTime====
+installTime====
+extInstallTime====
+serverStartTime====
+connectionToken==a11a1111-1aa1-1111-a1a1-a1a111a111aa==
+
+[15:15:57.092] Remote server is listening on port 44437
+[15:15:57.092] Parsed server configuration: {"serverConfiguration":{"remoteListeningOn":{"port":44437},"osReleaseId":"ubuntu","arch":"x86_64","webUiAccessToken":"","sshAuthSock":"","display":"","tmpDir":"/tmp","platform":"linux","connectionToken":"a11a1111-1aa1-1111-a1a1-a1a111a111aa"},"installUnpackCode":""}
+[15:15:57.093] Persisting server connection details to /home/nikita/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-69e67e69-8b617bd08fd9e3fc94d14adb8d358b56e3f72314-0.106.2/data.json
+[15:15:57.097] Starting forwarding server. local port 42031 -> socksPort 44829 -> remotePort 44437
+[15:15:57.097] Forwarding server listening on port 42031
+[15:15:57.098] Waiting for ssh tunnel to be ready
+[15:15:57.099] [Forwarding server port 42031] Got connection 0
+[15:15:57.101] Tunneled port 44437 to local port 42031
+[15:15:57.101] Resolved "ssh-remote+10.100.30.241" to "port 42031"
+[15:15:57.120] ------
+
+
+
+
+[15:15:57.129] [Forwarding server port 42031] Got connection 1
+[15:15:57.148] [Forwarding server port 42031] Got connection 2
+[15:17:10.142] [Forwarding server port 42031] Got connection 3

@@ -1,0 +1,12 @@
+2023-09-10 15:18:20.485 [info] Latency measurements for ssh-remote+10.100.30.241 backend
+window<->ptyhostservice<->ptyhost: 162.60ms
+ptyhostservice<->ptyhost: 0.87ms []
+2023-09-10 15:18:20.485 [info] Latency measurements for ssh-remote+10.100.30.241 backend
+window<->ptyhostservice<->ptyhost: 144.70ms
+ptyhostservice<->ptyhost: 0.70ms []
+2023-09-10 15:18:20.486 [info] Latency measurements for ssh-remote+10.100.30.241 backend
+window<->ptyhostservice<->ptyhost: 141.00ms
+ptyhostservice<->ptyhost: 0.75ms []
+2023-09-10 15:18:20.486 [info] Latency measurements for ssh-remote+10.100.30.241 backend
+window<->ptyhostservice<->ptyhost: 141.20ms
+ptyhostservice<->ptyhost: 2.07ms []

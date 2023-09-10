@@ -1,0 +1,23 @@
+[2023-09-10 16:52:11.096] [error] Failed to create free server Error: No default environment found!
+    at /opt/JupyterLab/resources/app.asar/build/out/main/registry.js:192:32
+[2023-09-10 16:52:11.098] [error] (node:64172) UnhandledPromiseRejectionWarning: Error: No default environment found!
+    at /opt/JupyterLab/resources/app.asar/build/out/main/registry.js:192:32
+(Use `jupyterlab-desktop --trace-warnings ...` to show where the warning was created)
+[2023-09-10 16:52:11.098] [error] (node:64172) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+[2023-09-10 16:52:57.876] [warn]  Unsatisfied version 2.1.1 from @jupyterlab/application-top of shared singleton module @lumino/widgets (required ^1.33.0)
+[2023-09-10 16:52:57.876] [warn]  Unsatisfied version 2.0.0 from @jupyterlab/application-top of shared singleton module @lumino/messaging (required ^1.10.0)
+[2023-09-10 16:52:57.876] [warn]  Unsatisfied version 2.1.1 from @jupyterlab/application-top of shared singleton module @lumino/coreutils (required ^1.11.0)
+[2023-09-10 16:52:57.877] [warn]  Unsatisfied version 2.1.1 from @jupyterlab/application-top of shared singleton module @lumino/signaling (required ^1.10.0)
+[2023-09-10 16:52:57.877] [warn]  Unsatisfied version 2.0.0 from @jupyterlab/application-top of shared singleton module @lumino/algorithm (required ^1.9.0)
+[2023-09-10 16:52:57.877] [warn]  Unsatisfied version 4.0.2 from @jupyterlab/application-top of shared singleton module @jupyterlab/mainmenu (required ^3.5.0)
+[2023-09-10 16:52:57.878] [warn]  Unsatisfied version 4.0.2 from @jupyterlab/application-top of shared singleton module @jupyterlab/translation (required ^3.5.0)
+[2023-09-10 16:52:57.878] [warn]  Unsatisfied version 4.0.2 from @jupyterlab/application-top of shared singleton module @jupyterlab/settingregistry (required ^3.5.0)
+[2023-09-10 16:52:57.878] [warn]  Unsatisfied version 7.0.2 from @jupyterlab/application-top of shared singleton module @jupyterlab/services (required ^6.5.0)
+[2023-09-10 16:52:57.878] [warn]  Unsatisfied version 2.0.0 from @jupyterlab/application-top of shared singleton module @lumino/properties (required ^1.8.0)
+[2023-09-10 16:52:57.878] [warn]  Unsatisfied version 2.1.1 from @jupyterlab/application-top of shared singleton module @lumino/disposable (required ^1.10.0)
+[2023-09-10 16:52:57.879] [warn]  Unsatisfied version 4.0.2 from @jupyterlab/application-top of shared singleton module @jupyterlab/notebook (required ^3.5.0)
+[2023-09-10 16:52:57.880] [warn]  No satisfying version (^3.5.0) of shared module @jupyterlab/outputarea found in shared scope default.
+Available versions: 4.0.2 from @jupyterlab/application-top
+[2023-09-10 16:52:57.880] [warn]  Unsatisfied version 4.0.2 from @jupyterlab/application-top of shared singleton module @jupyterlab/logconsole (required ^3.5.0)
+[2023-09-10 16:52:57.880] [warn]  Unsatisfied version 4.0.2 from @jupyterlab/application-top of shared singleton module @jupyterlab/rendermime (required ^3.5.0)
+[2023-09-10 16:52:59.899] [warn]  Language pack 'en_US' not installed!

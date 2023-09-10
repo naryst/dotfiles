@@ -1,0 +1,8 @@
+set selection-clipboard clipboard
+include catppuccin-macchiato
+set scroll-step 80
+
+map D set "first-page-column 1:1"
+map <C-d> set "first-page-column 1:2"
+
+

@@ -1,0 +1,89 @@
+{
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.defaultProfile.linux": "zsh (2)",
+    "terminal.external.linuxExec": "zsh",
+    "workbench.panel.defaultLocation": "right",
+    "terminal.integrated.automationShell.linux": "zsh",
+    "terminal.integrated.automationShell.osx": "zsh",
+    "terminal.integrated.automationShell.windows": "zsh",
+    "terminal.integrated.env.linux": {},
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "Fira code",
+    "editor.fontLigatures": true,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 16,
+    "editor.unicodeHighlight.allowedLocales": {
+        "ru": true
+    },
+    "terminal.integrated.fontSize": 16,
+    "extensions.ignoreRecommendations": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": true,
+        "markdown": false
+    },
+    "notebook.lineNumbers": "on",
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "editor.codeLensFontFamily": "Fira code",
+    "markdown.preview.fontSize": 17,
+    "terminal.integrated.inheritEnv": false,
+    "haskell.manageHLS": "GHCup",
+    "haskell.hlint.executablePath": "/home/nikita/.local/bin/hlint",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "python.formatting.provider": "none",
+    "notebook.output.fontSize": 17,
+    "notebook.diff.ignoreOutputs": true,
+    "files.autoSave": "afterDelay",
+    "editor.inlayHints.fontFamily": "Fira code",
+    "debug.console.fontSize": 16,
+    "chat.editor.fontSize": 16,
+    "notebook.output.wordWrap": true,
+    "notebook.output.scrolling": true,
+    "jupyter.askForKernelRestart": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.wordWrap": "on",
+    "window.titleBarStyle": "custom",
+    "remote.SSH.showLoginTerminal": true,
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+        "zsh (2)": {
+            "path": "/usr/bin/zsh"
+        }
+    },
+    "terminal.integrated.fontFamily": "JetBrainsMonoNL NF",
+}

@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1694284561354" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="7" l="1694284590423" />
+    </e>
+    <e n="EditorResetFontSize">
+      <i c="1" l="1694284554305" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1694284629712" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1694284599122" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1694284436654" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1694284662014" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.zoomIndicator.ZoomIndicatorView$settingsAction$1">
+      <i c="2" l="1694284556040" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1694284702017" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1694284423249" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1694284385281" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1694284395344" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1694284632520" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1694284597027" />
+    </e>
+  </component>
+</application>
